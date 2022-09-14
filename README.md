@@ -141,4 +141,5 @@ git commit -m "My commit message"
 | **Release Branch** | In a release branch model a dedicated branch into which release features are integrated. Created off `main` when work on the release starts, and merged back into `main` when the release is complete. |
 | **Tag** | A pointer to a historic version of the repository, generally used for release numbers. New changes cannot be added to tags (unlike branches). |
 
+
 © Mathias Thierbach 2022
