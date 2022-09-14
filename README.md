@@ -1,7 +1,7 @@
 # Introduction to GIT for Power BI Developers
 
-![git logo](images/git.png)
 ![Power BI logo](images/powerbi.svg)
+![git logo](images/git.png)
 
 ## Agenda
 
